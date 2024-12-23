@@ -20,12 +20,17 @@ parts/
 sdist/
 var/
 wheels/
+python/
 share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
 MANIFEST
-.gitignore
+
+*.zip
+
+*.old.*
+
 
 *.DS_Store
 
